@@ -1,16 +1,3 @@
 {
-  "notes": [
-    {
-      "title": "test",
-      "content": "tewrtwerwerw",
-      "created_at": "1/2/2023",
-      "id": 1
-    },
-    {
-      "title": "etwetw",
-      "content": "wtetwet",
-      "created_at": "1/2/2023",
-      "id": 2
-    }
-  ]
+  "notes": []
 }
