@@ -1,10 +1,16 @@
 {
   "notes": [
     {
-      "title": "De stat la birou cu dorian",
-      "content": "Azi mi am propus sa stau la birou cu dorian",
-      "created_at": "12/15/2022",
-      "id": 4
+      "title": "test",
+      "content": "tewrtwerwerw",
+      "created_at": "1/2/2023",
+      "id": 1
+    },
+    {
+      "title": "etwetw",
+      "content": "wtetwet",
+      "created_at": "1/2/2023",
+      "id": 2
     }
   ]
 }

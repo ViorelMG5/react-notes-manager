@@ -20,7 +20,7 @@ export function App() {
   return (
     <div>
       <Header />
-      <div style={{ padding: 50 }}>
+      <div style={{ padding: "5vw" }}>
         <Outlet />
       </div>
     </div>
